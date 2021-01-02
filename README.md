@@ -1,7 +1,11 @@
 ### Hi there 👋
 #First
 editing github cm
+#rd
 
+|col 1|col 2|
+|....|......|
+|row 1|row 2|
 <!--
 **kenlui78/kenlui78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
